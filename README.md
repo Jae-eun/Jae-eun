@@ -1,3 +1,3 @@
-### Hi there 👋 이재은입니다.
+### Hi there 👋  이재은입니다.
 
-[![Jae-eun's github stats](https://github-readme-stats.vercel.app/api?username=Jae-eun&count_private=true&show_icons=true&theme=react)]
+[![Jae-eun's github stats](https://github-readme-stats.vercel.app/api?username=Jae-eun&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
